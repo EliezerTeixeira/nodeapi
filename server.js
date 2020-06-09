@@ -14,4 +14,4 @@ require('./src/models/Product')
 //Rotas
 server.use('/api', require('./src/routes'))
 
-server.listen(3000)
+server.listen(3001)
